@@ -1,0 +1,34 @@
+---
+title: 'Reproducible Research - PA #2'
+author: "Michael Szczepaniak"
+date: "September 14, 2015"
+output: html_document
+url: http://rpubs.com/mszczepaniak/109084
+---
+
+Storms and other severe weather events can cause both public health and economic problems for communities and municipalities. Many severe events can result in fatalities, injuries, and property damage, and preventing such outcomes to the extent possible is a key concern.  
+
+This project involves exploring the U.S. National Oceanic and Atmospheric Administration's (NOAA) storm database. This database tracks characteristics of major storms and weather events in the United States, including when and where they occur, as well as estimates of any fatalities, injuries, and property damage.
+
+```{r}
+## first R code chunk here
+```
+
+## Synopsis - 10 sentances max
+
+
+## Data Processing  
+
+```{r}
+## R code chunk to read data and put into workable format
+```
+
+
+## Results
+
+
+```{r}
+## R code chunk to generate plots and other results of interest
+```
+
+## Other

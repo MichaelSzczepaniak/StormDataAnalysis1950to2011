@@ -1,0 +1,11 @@
+# rsconnnet folder is used by rpubs
+rsconnect/
+# odt is my copy of the requirements
+*.odt
+# push up the data once to have it archived, then ignore
+#*.bz2
+# no need to push up the large unzipped data file
+repdata_data_StormData.csv
+# local dev files
+*.RData
+*.RHistory
