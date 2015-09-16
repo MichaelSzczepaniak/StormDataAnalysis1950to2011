@@ -1,7 +1,7 @@
 ---
-title: 'Reproducible Research - PA #2'
+title: 'Health & Economic Impacts of Storms 1950 to 2011'
 author: "Michael Szczepaniak"
-date: "September 14, 2015"
+date: "September 2015"
 output: html_document
 url: http://rpubs.com/mszczepaniak/109084
 ---
